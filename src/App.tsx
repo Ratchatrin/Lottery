@@ -197,7 +197,7 @@ function App() {
                         {firstPrize - 1 === prize ||
                         firstPrize + 1 === prize ? (
                           <>
-                            <p>Numbers Near the 1st Prize</p>
+                            <p>Near the 1st Prize</p>
                           </>
                         ) : (
                           <></>
